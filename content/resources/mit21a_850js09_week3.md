@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: Student responses to a reading assignment on automation.
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/8f7a55aad0e90bfbb09f0d173b497bdb_MIT21A_850Js09_week3.pdf
+file_type: application/pdf
+resourcetype: Document
+title: Week 3
+uid: 8f7a55aa-d0e9-0bfb-b09f-0d173b497bdb
+---
